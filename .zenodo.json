@@ -1,0 +1,24 @@
+{
+  "title": "AI Agent Pricing Transparency Index: October 2026 totals by category",
+  "upload_type": "dataset",
+  "version": "1.0",
+  "description": "Totals by category, October 2026 edition, of how many of the AI agent startups tracked by AIAgentSearch.ai publish a price. Totals only; no company-level data is included. Method, sample and codebook are in README.md. Study page: https://aiagentsearch.ai/ai-agent-pricing-transparency-index.html",
+  "creators": [
+    {
+      "name": "AIAgentSearch.ai Editorial Team"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "AI agents",
+    "pricing transparency",
+    "AI agent pricing",
+    "dataset"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://aiagentsearch.ai/ai-agent-pricing-transparency-index.html",
+      "relation": "isDocumentedBy"
+    }
+  ]
+}
